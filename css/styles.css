@@ -16,6 +16,10 @@ body {
     opacity: 50%;
 }
 
+.hidden {
+    display: none;
+}
+
 nav {
     margin-right: 0;
     display: none;
