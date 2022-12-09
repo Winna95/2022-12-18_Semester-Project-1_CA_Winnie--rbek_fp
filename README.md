@@ -8,7 +8,7 @@ Community Science Museum is a semester project in school about creating a websit
 
 ### Changes
 
-The project is based on a prototype that was made for this project. There is no changes to the project relative to the prototype that was made.
+The project is based on a prototype that was made for this project. The only chnges that has been made from the prototype is that in some places there is used a bigger font size, because the size in the prototype was a bit to small on the phone. There is also made a color change in the info text on the home page. The text "free entrance all days" and "See all our opening hours" is changes to a darker purple color, because the color contrast was only AA colpliant and I wanted it to be AAA colpliant. Other than that, there is no changes to the project relative to the prototype that was made.
 
 ### Difficulties
 
