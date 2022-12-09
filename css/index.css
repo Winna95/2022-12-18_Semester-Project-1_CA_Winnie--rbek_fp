@@ -26,7 +26,7 @@
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 20px;
-    font-size: 12px;
+    font-size: 14px;
     margin-top: 20px;
     margin-bottom: 30px;
 }
@@ -136,7 +136,7 @@ margin: 8px auto;
 }
 
 .regular-text {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 400;
     text-align: center;
     margin-left: -20px;
