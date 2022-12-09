@@ -64,6 +64,7 @@ header label {
     text-align: center;
     align-content: center;
     justify-content: center;
+    padding-bottom: 5px;
 }
 
 .info-one {
@@ -504,9 +505,6 @@ header label {
             margin-bottom: 80px;
         }
 
-        .button-two {
-            margin-top: -90px;
-        }
 
         .about-museum {
             width: 1300px;
