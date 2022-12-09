@@ -70,7 +70,7 @@ header label {
     margin: 0 30px;
 }
 .info-two {
-    margin-top: 11px;
+    margin-top: 15px;
     margin-left: 30px;
     margin-right: 30px;
 }
@@ -256,11 +256,12 @@ header label {
     .info-one {
         margin: 0 50px;
     }
+
     .info-two {
-        margin-top: 11px;
         margin-left: 50px;
         margin-right: 50px;
     }
+    
     .see-exhibition-section {
         width: 1000px;
     }
