@@ -1,0 +1,549 @@
+
+@media (min-width: 500px) {
+    /* Explore Page */
+    .image119x138 {
+        width: 209px;
+        height: 272px;
+    }
+
+    .image250x160 {
+        width: 448px;
+        height: 221px;
+    }
+
+
+
+}
+@media (max-width: 649px) {
+    .logo {
+        display: block;
+        text-align: center;
+        margin: 0px auto;
+    }
+}
+@media (min-width: 650px) {
+
+    /* header */
+
+    header {
+        justify-content: start;
+    }
+
+nav {
+    display: block;
+    position: relative;
+    background-color: #ffff;
+}
+
+nav li {
+    display: inline-block;
+    padding: 5px;
+}
+
+li a {
+    color: black;
+    font-size: 20px;
+}
+
+li a:hover {
+    color: #694189;
+    font-weight: 600;
+}
+
+header label {
+    display: none;
+}
+
+.button-four {
+    margin-left: 40px;
+}
+
+/* Home page */
+.info-entrance {
+    display: flex;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.info-one {
+    margin: 0 30px;
+}
+.info-two {
+    margin-top: 11px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.see-exhibition-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 10px auto;
+    width: 600px;
+}
+.exhibition-div-two {
+    grid-column: 1/1;
+    grid-row: 1/1;
+}
+.exhibition-div-one {
+    grid-column: 2/2;
+}
+
+.new-events-list {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.about-museum {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 600px;
+    margin: 10px auto;
+}
+
+.goto-pages {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 650px;
+    margin: 10px auto;
+}
+
+
+/* Exhibition Page*/
+
+    .exhibition-section-one {
+        border-radius: 30px;
+        max-width: 600px;
+        margin: 30px auto;
+    }  
+    .exhibition-section-two {
+        border-radius: 30px;
+        max-width: 600px;
+        margin: 30px auto;
+    }  
+    .exhibition-section-three {
+        border-radius: 30px;
+        max-width: 600px;
+        margin: 30px auto;
+    }  
+
+    /* Visit Page */
+    .visit-section {
+        width: 400px;
+    }
+    .visit-paragraph {
+        width: 300px;
+    }
+    .image120x120 {
+        width: 200px;
+        height: 200px;
+    }
+
+    /* Get Involved Page */
+    .get-involved-section {
+        width: 500px;
+    }
+    
+    .get-involved-paragraph {
+        width: 400px;
+    }
+
+    .image100x150 {
+        width: 200px;
+        height: 250px;
+    }
+}
+
+@media (min-width: 850px) {
+    /* Home Page */
+    .see-exhibition-section {
+        width: 800px;
+    }
+
+    .line-space-text {
+        width: 400px;
+        margin-top: 30px;
+        line-height: 25px;
+    }
+
+    .image200x200 {
+        width: 300px;
+        height: 300px;
+    }
+
+    .button-one {
+        display: block;
+        margin-top: -30px;
+        margin-left: -40px;
+    }
+
+    .image130x130 {
+        width: 213px;
+        height: 230px;
+    }
+
+    .about-museum {
+        width: 800px;
+    }
+
+    .about-text {
+        margin-top: 70px;
+    }
+
+    .goto-pages {
+        width: 800px;
+    }
+
+    .img-goto {
+        width: 250px;
+        height: 250px;
+    }
+
+    /* Exhibition Page */
+    .round-img {
+        width: 300px;
+        height: 300px;
+    }
+
+    /* Event Page*/
+    .events-section {
+     grid-template-columns: 1fr 1fr; 
+     max-width: 670px;
+     margin: 10px auto;
+    }
+
+    /* Visit Page */
+    .visit-section {
+        width: 600px;
+    }
+    .visit-paragraph {
+        width: 500px;
+        
+    }
+
+    .image120x120 {
+        width: 300px;
+        height: 300px;
+    }
+
+    /* Get Involved Page */
+    .get-involved-section {
+        width: 700px;
+    }
+    
+    .get-involved-paragraph {
+        width: 600px;
+    }
+
+    .image100x150 {
+        width: 300px;
+        height: 350px;
+    }
+}
+
+
+@media (min-width: 1000px) {
+
+    /* Home Page */
+    .info-entrance {
+        font-size: 15px;
+    }
+
+    .seeopeninghour {
+        font-size: 15px;
+    }
+
+    .info-one {
+        margin: 0 50px;
+    }
+    .info-two {
+        margin-top: 11px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .see-exhibition-section {
+        width: 1000px;
+    }
+    .line-space-text {
+        width: 500px;
+        margin-top: 100px;
+        line-height: 30px;
+        margin-bottom: -50px;
+    }
+
+    .image200x200 {
+        width: 400px;
+        height: 400px;
+    }
+
+    .image130x130 {
+        width: 300px;
+        height: 300px;
+    }
+
+    .regular-text {
+        font-size: 20px;
+        margin-left: 0;
+    }
+
+    .about-museum {
+        width: 1000px;
+    }
+
+    .about-text {
+        margin-top: 20px;
+    }
+
+    .goto-pages {
+        width: 950px;
+    }
+    .img-goto {
+        width: 300px;
+        height: 300px;
+    }
+    /* Explore Page */
+
+    .explore-sections {
+        max-width: 1000px;
+        margin: 30px auto;
+    }
+
+    .image119x138 {
+        width: 409px;
+        height: 472px;
+    }
+
+    .image250x160 {
+        width: 848px;
+        height: 391px;
+    }
+
+    /* Event Page */
+
+    .events-section {
+        margin: auto;
+        align-content: center;
+        justify-content: center;
+    }
+    .event-one {
+        border-radius: 20px;
+        width: 400px;
+        margin: 10px 10px;
+    }
+
+    .event-two {
+        border-radius: 20px;
+        width: 400px;
+        margin: 10px 10px;
+    }
+
+    .event-three {
+        border-radius: 20px;
+        width: 400px;
+        margin: 10px 10px;
+    }
+
+    .left-align {
+        width: 350px;
+    }
+    .bold-text {
+        font-size: 15px;
+    }
+
+
+}
+
+@media (min-width: 1200px) {
+
+    /* Header */
+
+    li a {
+        font-size: 24px;
+    }
+
+    .logo {
+        width: 255px;
+        height: 130px;
+    }
+
+    .button-four {
+        margin-left: 50px;
+    }
+
+    /* Home Page */
+    .image130x130 {
+        width: 350px;
+        height: 350px;
+    }
+    /* Exhibition Page*/
+
+    .exhibition-section-one {
+    border-radius: 30px;
+    max-width: 1000px;
+    margin: 30px auto;
+    }
+
+    .exhibition-section-two {
+    border-radius: 30px;
+    max-width: 1000px;
+    margin: 30px auto;
+    }
+    
+    .exhibition-section-three {
+        border-radius: 30px;
+        max-width: 1000px;
+        margin: 30px auto; 
+    }
+
+    .goto-pages {
+        width: 1100px;
+    }
+    .img-goto {
+        width: 350px;
+        height: 350px;
+    }
+
+    /* Exhibition Page */
+
+    .round-img {
+        width: 400px;
+        height: 400px;
+    }
+
+    /* event page */
+    .events-section {
+        margin: 20px auto;
+        align-content: center;
+        justify-content: center;
+    }
+    .event-one {
+        border-radius: 20px;
+        width: 500px;
+        margin: 10px 10px;
+    }
+
+    .event-two {
+        border-radius: 20px;
+        width: 500px;
+        margin: 10px 10px;
+    }
+
+    .event-three {
+        border-radius: 20px;
+        width: 500px;
+        margin: 10px 10px;
+    }
+
+    .left-align {
+        width: 450px;
+    }
+
+    .image150x150 {
+        width: 300px;
+        height: 300px;
+    }
+
+     /* Visit Page */
+     .visit-section {
+        width: 800px;
+    }
+    .visit-paragraph {
+        width: 700px;
+        
+    }
+    .image120x120 {
+        width: 400px;
+        height: 400px;
+    }
+
+    /* Get Involved Page */
+    .get-involved-section {
+        width: 1000px;
+    }
+    
+    .get-involved-paragraph {
+        width: 800px;
+    }
+    .image100x150 {
+        width: 400px;
+        height: 450px;
+    }
+}
+
+@media (min-width: 1500px) {
+          /* Header */
+          .logo {
+            width: 355px;
+            height: 178px;
+        }
+
+        .button-four {
+            margin-left: 100px;
+        }
+
+        /* Home Page */
+        .see-exhibition-section {
+            width: 1300px;
+        }
+        .line-space-text {
+            width: 614px;
+            margin-top: 180px;
+            line-height: 40px;
+            margin-bottom: -150px; 
+        }
+        
+        .image200x200 {
+            width: 600px;
+            height: 600px;
+        }
+
+        .image130x130 {
+            width: 450px;
+            height: 450px;
+            margin-bottom: 80px;
+        }
+
+        .button-two {
+            margin-top: -90px;
+        }
+
+        .about-museum {
+            width: 1300px;
+        }
+
+        .goto-pages {
+            width: 1400px;
+        }
+        .img-goto {
+            width: 450px;
+            height: 450px;
+        }
+         /* Visit Page */
+         .visit-section {
+            width: 1200px;
+        }
+        .visit-paragraph {
+            width: 700px;
+            
+        }
+        .image120x120 {
+            width: 550px;
+            height: 550px;
+        }
+    
+        /* Get Involved Page */
+        .get-involved-section {
+            width: 1200px;
+        }
+        
+        .get-involved-paragraph {
+            width: 1000px;
+        }
+        .image100x150 {
+            width: 420px;
+            height: 500px;
+        }
+        .button-one {
+            margin-top: -100px;
+        }
+}

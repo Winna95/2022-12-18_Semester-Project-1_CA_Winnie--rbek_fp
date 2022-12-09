@@ -1,0 +1,35 @@
+.underline {
+    text-decoration: underline;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.get-involved-section {
+    background-color: #DAECEC;
+    padding: 20px;
+    text-align: center;
+    margin: 10px auto;
+    width: 260px;
+}
+
+.get-involved-paragraph {
+    text-align: left;
+    margin: 10px auto;
+    width: 205px;
+}
+
+.image100x150 {
+    width: 100px;
+    height: 150px;
+}
+
+.align-center {
+    text-align: center;
+}

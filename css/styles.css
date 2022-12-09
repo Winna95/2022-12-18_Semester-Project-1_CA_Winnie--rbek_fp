@@ -1,0 +1,124 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    min-height: 20vh;
+    font-weight: 300;
+    max-width: 1512px;
+    margin: auto;
+}
+
+.logo {
+    width: 200px;
+    height: 100px;
+}
+
+.logo:hover {
+    opacity: 50%;
+}
+
+nav {
+    margin-right: 0;
+    display: none;
+    position: fixed;
+    background: #344F83;
+    z-index: 1000;
+    right: 0px;
+    left: 0px;
+    padding: 1px 0px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+a {
+    font-size: 24px;
+    font-weight: 300;
+    margin: auto;
+}
+nav ul {
+    padding: 0px;
+
+}
+
+
+nav li {
+    display: block;
+    padding: 30px 30px;
+}
+
+#hamburger-menu {
+    display: none;
+}
+
+#hamburger-menu:checked ~ nav {
+    display: block;
+    max-width: 250px;
+}
+
+label {
+    color: #694189;
+    margin-left: 20px;
+}
+
+.menu-hamburger-icon {
+    margin-bottom: 20px;
+    margin-top: -30px;
+}
+
+.h1 {
+    font-size: 20px;
+    font-weight: 400;
+    max-width: 600px;
+}
+
+.h2 {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+footer {
+    text-align: center;
+    margin-top: 100px;
+    font-weight: 400;
+}
+
+.button-four {
+    display: block;
+    background-color: #186273;
+    color: #ffff;
+    margin: 30px 20px;
+    max-width: 90px;
+    padding: 5px 30px;
+    border-radius: 5px;
+}
+
+.button-four:hover {
+    background-color: #DAECEC;
+    color: #186273;
+}
+
+.icons-footer {
+    margin: 30px 0px;
+    }
+    
+    .fa-brands {
+        color: #ffff;
+        background-color: #186273;
+        padding: 10px;
+        border-radius: 100%;
+        margin: 2px;
+    }
+
+    .fa-facebook-f {
+        width: 15px;
+    }
+
+/* Links */
+
+a {
+    text-decoration: none;
+}
+
+header a {
+    color: #ffff;
+    padding: 10px;
+}
+

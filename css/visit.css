@@ -1,0 +1,35 @@
+.underline {
+    text-decoration: underline;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+    font-size: 17px;
+}
+
+.visit-section {
+    text-align: center;
+    margin: 10px auto;
+    background-color: #EBE7F4;
+    padding: 20px;
+    width: 260px;
+}
+
+ .visit-paragraph{
+    text-align: left;
+    margin: 20px auto;
+    width: 200px;
+}
+
+.image120x120 {
+    width: 120px;
+    height: 120px;
+}
+
+.align-center {
+    text-align: center;
+}
