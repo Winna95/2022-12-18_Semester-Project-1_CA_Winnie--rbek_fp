@@ -84,6 +84,12 @@
     object-fit: cover;
 }
 
+.image130x130:hover {
+    opacity: 50%;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
 h1 {
     font-weight: 500;
     color: #186273;
@@ -160,6 +166,12 @@ margin: 8px auto;
 .img-goto {
     width: 200px;
     height: 200px;
+}
+
+.img-goto:hover {
+    opacity: 50%;
+    transform: scale(1.1);
+    transition: 0.5s;
 }
 
 .button-three {
