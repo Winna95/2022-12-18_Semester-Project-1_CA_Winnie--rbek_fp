@@ -10,10 +10,8 @@
         width: 448px;
         height: 221px;
     }
-
-
-
 }
+
 @media (max-width: 649px) {
     .logo {
         display: block;
@@ -75,6 +73,7 @@ header label {
     margin-left: 30px;
     margin-right: 30px;
 }
+
 .see-exhibition-section {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -108,7 +107,6 @@ header label {
     width: 650px;
     margin: 10px auto;
 }
-
 
 /* Exhibition Page*/
 
@@ -242,9 +240,7 @@ header label {
     }
 }
 
-
 @media (min-width: 1000px) {
-
     /* Home Page */
     .info-entrance {
         font-size: 15px;
@@ -304,7 +300,6 @@ header label {
         height: 300px;
     }
     /* Explore Page */
-
     .explore-sections {
         max-width: 1000px;
         margin: 30px auto;
@@ -321,7 +316,6 @@ header label {
     }
 
     /* Event Page */
-
     .events-section {
         margin: auto;
         align-content: center;
@@ -351,12 +345,9 @@ header label {
     .bold-text {
         font-size: 15px;
     }
-
-
 }
 
 @media (min-width: 1200px) {
-
     /* Header */
 
     li a {
@@ -378,7 +369,6 @@ header label {
         height: 350px;
     }
     /* Exhibition Page*/
-
     .exhibition-section-one {
     border-radius: 30px;
     max-width: 1000px;
@@ -406,7 +396,6 @@ header label {
     }
 
     /* Exhibition Page */
-
     .round-img {
         width: 400px;
         height: 400px;
@@ -423,23 +412,19 @@ header label {
         width: 500px;
         margin: 10px 10px;
     }
-
     .event-two {
         border-radius: 20px;
         width: 500px;
         margin: 10px 10px;
     }
-
     .event-three {
         border-radius: 20px;
         width: 500px;
         margin: 10px 10px;
     }
-
     .left-align {
         width: 450px;
     }
-
     .image150x150 {
         width: 300px;
         height: 300px;

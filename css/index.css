@@ -54,18 +54,7 @@
     margin: 30px auto;
 }
 
-.button-one {
-    background-color: #186273;
-    color: #ffff;
-    margin: 20px auto;
-    padding: 10px 30px;
-    border-radius: 5px;
-}
 
-.button-one:hover {
-    background-color: #DAECEC;
-    color: #186273;
-}
 .align-center {
     text-align: center;
     margin: 40px auto;
@@ -124,20 +113,21 @@ h2 {
 margin: 8px auto;
 }
 
-.button-two {
+.button {
     background-color: #186273;
     color: #ffff;
     margin: 20px auto;
     padding: 10px 30px;
     border-radius: 5px;
     display: block;
-    max-width: 150px;
+    max-width: 160px;
 }
 
-.button-two:hover {
+.button-hover:hover {
     background-color: #DAECEC;
     color: #186273;
 }
+
 
 .regular-text {
     font-size: 14px;
@@ -174,20 +164,7 @@ margin: 8px auto;
     transition: 0.5s;
 }
 
-.button-three {
-    background-color: #186273;
-    color: #ffff;
-    margin: 20px auto;
-    padding: 10px 30px;
-    border-radius: 5px;
-    display: block;
-    max-width: 150px;
-}
 
-.button-three:hover {
-    background-color: #DAECEC;
-    color: #186273;
-}
 
 
 

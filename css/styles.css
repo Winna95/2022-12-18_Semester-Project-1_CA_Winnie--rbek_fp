@@ -43,7 +43,6 @@ nav ul {
 
 }
 
-
 nav li {
     display: block;
     padding: 15px 30px;
@@ -85,7 +84,7 @@ footer {
     font-weight: 400;
 }
 
-.button-four {
+.button-back {
     display: block;
     background-color: #186273;
     color: #ffff;
@@ -95,7 +94,7 @@ footer {
     border-radius: 5px;
 }
 
-.button-four:hover {
+.button-back:hover {
     background-color: #DAECEC;
     color: #186273;
 }

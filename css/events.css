@@ -22,7 +22,6 @@ h2 {
 
 .event-one {
     margin: 20px auto;
-    text-align: center;
     background-color: #EBE7F4;
     padding: 20px;
 }
@@ -48,20 +47,21 @@ h3 {
 .image150x150 {
     width: 150px;
     height: 150px;
-    text-align: center;
     margin-top: 20px;
 }
 
 .event-two {
     margin: 20px auto;
-    text-align: center;
     background-color: #DAECEC;
     padding: 20px;
 }
 
 .event-three {
     margin: 20px auto;
-    text-align: center;
     background-color: #DEE8F9;
     padding: 20px;
+}
+
+.align-center {
+    text-align: center;
 }

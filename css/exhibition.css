@@ -14,10 +14,7 @@
 }
 
 .exhibition-section-one {
-    text-align: center;
     background-color: #EBE7F4;
-    padding: 20px;
-    margin: 30px 0;
 }
 
 .red-header {
@@ -39,10 +36,7 @@
 }
 
 .exhibition-section-two {
-    text-align: center;
     background-color: #DAECEC;
-    padding: 20px;
-    margin: 30px 0;
 }
 
 .blue-header {
@@ -50,12 +44,21 @@
 }
 
 .exhibition-section-three {
-    text-align: center;
     background-color: #DEE8F9;
-    padding: 20px;
-    margin: 30px 0;
 }
 
 .green-header {
     color: #254E57;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.padding20 {
+    padding: 20px;
+}
+
+.margin-exhibition {
+    margin: 30px 0;
 }
