@@ -31,6 +31,7 @@ nav {
     display: block;
     position: relative;
     background-color: #ffff;
+    margin-top: -50px;
 }
 
 nav li {
@@ -52,7 +53,7 @@ header label {
     display: none;
 }
 
-.button-four {
+.button-back {
     margin-left: 40px;
 }
 
@@ -109,22 +110,28 @@ header label {
 }
 
 /* Exhibition Page*/
+    .exhibition-section {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0;
+    }
 
-    .exhibition-section-one {
-        border-radius: 30px;
-        max-width: 600px;
-        margin: 30px auto;
-    }  
-    .exhibition-section-two {
-        border-radius: 30px;
-        max-width: 600px;
-        margin: 30px auto;
-    }  
-    .exhibition-section-three {
-        border-radius: 30px;
-        max-width: 600px;
-        margin: 30px auto;
-    }  
+    .header-text-exhibition {
+        grid-column: 1/1;
+        margin: auto;
+    }
+
+    .exhibition-text-paragraph {
+        grid-column: 1/1;
+        margin: auto;
+        padding-left: 40px;
+    }
+    .round-img {
+        grid-column: 2/2;
+    }
+    .margin-robot-bottom {
+        margin-bottom: -50px;
+    }
 
     /* Visit Page */
     .visit-section {
@@ -177,8 +184,8 @@ header label {
     }
 
     .image130x130 {
-        width: 213px;
-        height: 230px;
+        width: 200px;
+        height: 200px;
     }
 
     .about-museum {
@@ -194,8 +201,8 @@ header label {
     }
 
     .img-goto {
-        width: 250px;
-        height: 250px;
+        width: 200px;
+        height: 200px;
     }
 
     /* Exhibition Page */
@@ -203,12 +210,22 @@ header label {
         width: 300px;
         height: 300px;
     }
+    .margin-bottom-exhibition-text {
+        margin-bottom: -40px;
+    }
+    .margin-robot-bottom {
+        margin-bottom: -100px;
+    }
+    
 
     /* Event Page*/
     .events-section {
      grid-template-columns: 1fr 1fr; 
-     max-width: 670px;
+     max-width: 840px;
      margin: 10px auto;
+    }
+    .green-background-events{
+        padding: 20px 40px;
     }
 
     /* Visit Page */
@@ -275,8 +292,8 @@ header label {
     }
 
     .image130x130 {
-        width: 300px;
-        height: 300px;
+        width: 250px;
+        height: 250px;
     }
 
     .regular-text {
@@ -296,8 +313,8 @@ header label {
         width: 950px;
     }
     .img-goto {
-        width: 300px;
-        height: 300px;
+        width: 250px;
+        height: 250px;
     }
     /* Explore Page */
     .explore-sections {
@@ -320,25 +337,12 @@ header label {
         margin: auto;
         align-content: center;
         justify-content: center;
+        text-align: center;
     }
-    .event-one {
-        border-radius: 20px;
+    .green-background-events {
         width: 400px;
         margin: 10px 10px;
     }
-
-    .event-two {
-        border-radius: 20px;
-        width: 400px;
-        margin: 10px 10px;
-    }
-
-    .event-three {
-        border-radius: 20px;
-        width: 400px;
-        margin: 10px 10px;
-    }
-
     .left-align {
         width: 350px;
     }
@@ -359,46 +363,41 @@ header label {
         height: 130px;
     }
 
-    .button-four {
+    .button-back {
         margin-left: 50px;
     }
 
     /* Home Page */
     .image130x130 {
-        width: 350px;
-        height: 350px;
-    }
-    /* Exhibition Page*/
-    .exhibition-section-one {
-    border-radius: 30px;
-    max-width: 1000px;
-    margin: 30px auto;
-    }
-
-    .exhibition-section-two {
-    border-radius: 30px;
-    max-width: 1000px;
-    margin: 30px auto;
-    }
-    
-    .exhibition-section-three {
-        border-radius: 30px;
-        max-width: 1000px;
-        margin: 30px auto; 
+        width: 300px;
+        height: 300px;
     }
 
     .goto-pages {
-        width: 1100px;
+        width: 950px;
+        margin-top: 50px;
     }
     .img-goto {
-        width: 350px;
-        height: 350px;
+        width: 300px;
+        height: 300px;
     }
 
     /* Exhibition Page */
     .round-img {
         width: 400px;
         height: 400px;
+    }
+    .margin-bottom-exhibition-text {
+        margin-bottom: -120px;
+    }
+    .margin-robot-bottom {
+        margin-bottom: -150px;
+    }
+    .exhibition-text-paragraph {
+        padding-left: 70px;
+    }
+    .margin-bottom-biology {
+        margin-bottom: -80px;
     }
 
     /* event page */
@@ -407,21 +406,12 @@ header label {
         align-content: center;
         justify-content: center;
     }
-    .event-one {
-        border-radius: 20px;
+
+    .green-background-events {
         width: 500px;
         margin: 10px 10px;
     }
-    .event-two {
-        border-radius: 20px;
-        width: 500px;
-        margin: 10px 10px;
-    }
-    .event-three {
-        border-radius: 20px;
-        width: 500px;
-        margin: 10px 10px;
-    }
+    
     .left-align {
         width: 450px;
     }
@@ -464,7 +454,7 @@ header label {
             height: 178px;
         }
 
-        .button-four {
+        .button-back {
             margin-left: 100px;
         }
 

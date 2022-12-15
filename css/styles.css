@@ -1,3 +1,4 @@
+
 body {
     font-family: 'Roboto', sans-serif;
     min-height: 20vh;
@@ -62,10 +63,19 @@ label {
     margin-left: 20px;
 }
 
+
 .menu-hamburger-icon {
     margin-bottom: 20px;
-    margin-top: -30px;
 }
+
+.navbar {
+    background-color: #ffff;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    z-index: 1;
+}
+
 
 .h1 {
     font-size: 20px;
@@ -88,7 +98,8 @@ footer {
     display: block;
     background-color: #186273;
     color: #ffff;
-    margin: 30px 20px;
+    margin-top: 270px;
+    margin-left: 20px;
     max-width: 90px;
     padding: 5px 30px;
     border-radius: 5px;

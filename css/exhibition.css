@@ -2,24 +2,21 @@
     text-decoration: underline;
 }
 
-.h1 {
-    font-size: 20px;
-    font-weight: 400;
+h1 {
     max-width: 600px;
+    text-align: center;
+    margin: 60px auto;
 }
 
-.header-text {
+.header-text-exhbition {
     text-align: center;
     
 }
 
-.exhibition-section-one {
+.blue-background {
     background-color: #EBE7F4;
 }
 
-.red-header {
-    color: #732C1C;
-}
 
 .exhibition-text-paragraph {
     text-align: left;
@@ -35,20 +32,12 @@
     object-fit: cover;
 }
 
-.exhibition-section-two {
+.green-background {
     background-color: #DAECEC;
 }
 
-.blue-header {
-    color: #1B3465;
-}
-
-.exhibition-section-three {
+.purple-background {
     background-color: #DEE8F9;
-}
-
-.green-header {
-    color: #254E57;
 }
 
 .align-center {
@@ -62,3 +51,4 @@
 .margin-exhibition {
     margin: 30px 0;
 }
+

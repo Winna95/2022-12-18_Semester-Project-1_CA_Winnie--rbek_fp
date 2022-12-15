@@ -12,6 +12,8 @@ h2 {
     color: #ffff;
     margin: 10px auto;
     max-width: 1200px;
+    padding: 5px 10px;
+
 }
 
 .events-section {
@@ -20,9 +22,14 @@ h2 {
     margin: 10px auto;
 }
 
-.event-one {
+
+.green-background-events {
+    background-color: #DAECEC;
     margin: 20px auto;
-    background-color: #EBE7F4;
+    padding: 20px 50px;
+}
+.white-background {
+    background-color: #ffff;
     padding: 20px;
 }
 
@@ -47,7 +54,7 @@ h3 {
 .image150x150 {
     width: 150px;
     height: 150px;
-    margin-top: 20px;
+    margin-top: 0px;
 }
 
 .event-two {
