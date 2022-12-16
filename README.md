@@ -31,7 +31,7 @@ Mobile:
 ### References
 
 References:
-I have used the content in the courses for inspiration and help. I have used https://www.freepik.com/, https://pixabay.com/ and https://unsplash.com/ for images that was not included in the project. for icons i have used https://fontawesome.com. Any other problems I have had during the process with HTML and CSS, i have used these websites for inspiration and help:
+I have used the content in the courses for inspiration and help. I have used https://www.freepik.com/, https://pixabay.com/ and https://unsplash.com/ for images that was not included in the project. for icons I have used https://fontawesome.com. Any other problems I have had during the process with HTML and CSS, I have used these websites for inspiration and help:
 
 Stack overflow
 MDN

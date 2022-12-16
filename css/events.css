@@ -26,11 +26,11 @@ h2 {
 .green-background-events {
     background-color: #DAECEC;
     margin: 20px auto;
-    padding: 20px 50px;
+    padding: 20px 30px;
 }
 .white-background {
     background-color: #ffff;
-    padding: 20px;
+    padding: 10px;
 }
 
 h3 {
@@ -42,7 +42,7 @@ h3 {
 .left-align {
     text-align: left;
     margin: 20px auto;
-    width: 280px;
+    width: 250px;
 }
 
 .bold-text {

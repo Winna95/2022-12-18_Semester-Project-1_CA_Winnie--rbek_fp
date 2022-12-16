@@ -97,9 +97,12 @@ header label {
 
 .about-museum {
     display: flex;
-    flex-direction: row-reverse;
     width: 600px;
     margin: 10px auto;
+}
+.about-text {
+    margin-top: 10px;
+
 }
 
 .goto-pages {
@@ -211,10 +214,10 @@ header label {
         height: 300px;
     }
     .margin-bottom-exhibition-text {
-        margin-bottom: -40px;
+        margin-bottom: -10px;
     }
     .margin-robot-bottom {
-        margin-bottom: -100px;
+        margin-bottom: -60px;
     }
     
 
@@ -258,6 +261,12 @@ header label {
 }
 
 @media (min-width: 1000px) {
+    body {
+    font-size: 20px;
+    }
+    .involve-header {
+        font-size: 25px;
+    }
     /* Home Page */
     .info-entrance {
         font-size: 15px;
@@ -281,11 +290,19 @@ header label {
     }
     .line-space-text {
         width: 500px;
-        margin-top: 100px;
         line-height: 30px;
-        margin-bottom: -50px;
+        font-size: 20px;
     }
 
+    .text-exhibition {
+        margin-top: 50px;
+        margin-bottom: 10px;
+    }
+    .text-about {
+        margin-top: 130px;
+        margin-bottom: -100px;
+
+    }
     .image200x200 {
         width: 400px;
         height: 400px;
@@ -310,7 +327,7 @@ header label {
     }
 
     .goto-pages {
-        width: 950px;
+        width: 800px;
     }
     .img-goto {
         width: 250px;
@@ -349,6 +366,10 @@ header label {
     .bold-text {
         font-size: 15px;
     }
+    .header-20px {
+        font-size: 20px;
+    }
+   
 }
 
 @media (min-width: 1200px) {
@@ -388,7 +409,7 @@ header label {
         height: 400px;
     }
     .margin-bottom-exhibition-text {
-        margin-bottom: -120px;
+        margin-bottom: -80px;
     }
     .margin-robot-bottom {
         margin-bottom: -150px;
@@ -397,7 +418,7 @@ header label {
         padding-left: 70px;
     }
     .margin-bottom-biology {
-        margin-bottom: -80px;
+        margin-bottom: -40px;
     }
 
     /* event page */
