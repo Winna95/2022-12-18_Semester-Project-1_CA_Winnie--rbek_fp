@@ -22,11 +22,10 @@ Links to download the website:
 https://github.com/
 
 Hosted link:
+https://boisterous-halva-bb1034.netlify.app/events.html
 
 Links to the prototype:
-Desktop:
-
-Mobile:
+https://www.figma.com/file/hWQ0wxyqPNJA8btpXh2bff/2022-12-18_Semester-Project-1_CA_Winnie-%C3%98rbek_fp?node-id=20%3A231&t=EAwkIacqoli0OCN1-1
 
 ### References
 
