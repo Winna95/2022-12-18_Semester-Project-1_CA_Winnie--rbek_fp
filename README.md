@@ -44,7 +44,7 @@ npm run start
 prerequisites that are required for this project are webserver to host the website and a web browser to view it.
 
 Links to download the website:
-https://github.com/
+https://github.com/Winna95/2022-12-18_Semester-Project-1_CA_Winnie--rbek_fp.git
 
 Hosted link:
 https://boisterous-halva-bb1034.netlify.app/events.html
